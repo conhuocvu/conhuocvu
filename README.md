@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently studying on FPT University - Hoa Lac Campus<br>👯 I’m looking to collaborate on exciting tech and academic projects<br>🤝 I’m looking for help with improving my coding skills and project experience<br>🌱 I’m currently learning web development and Japanese<br>💬 Ask me about programming, student life, or language learning<br>
 
 
 ## 🌐 Socials:
